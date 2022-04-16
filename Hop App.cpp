@@ -14,7 +14,7 @@ int main()
 	int  a, b, c;
 	cout << "Please enter your main  number ";
 	cin >> a;
-	cout << "Please enter your replase  number ";
+	cout << "Please enter your replace  number ";
 	cin >> b;
 
 	for (int i = 1; i <= a; i++)
